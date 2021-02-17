@@ -1,6 +1,0 @@
-ja:
-  activerecord:
-    attributes:
-      message:
-        subject: 件名
-        body: 本文
