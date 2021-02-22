@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/baukis2.iml" filepath="$PROJECT_DIR$/.idea/modules/baukis2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/init.iml" filepath="$PROJECT_DIR$/.idea/modules/init.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/practical_rails6.iml" filepath="$PROJECT_DIR$/.idea/practical_rails6.iml" />
     </modules>
   </component>
